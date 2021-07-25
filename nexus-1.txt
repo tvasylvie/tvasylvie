@@ -1,1 +1,4 @@
-hsv;XBoLVJGoDtSqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5Sq
+{
+  "asnetgd": "hsv;XBoLVJGoDtSqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5Sq",
+  "csghpign": 10
+}
