@@ -3,5 +3,7 @@
   "dayle": false,
   "id-dayle": "xxxx",
   "id-normal": "xxx",
-  "csghpign": 60
+  "csghpign": 60,
+  "onep-id": "xxxxxx",
+  "etrni-id": "xxxxxxx"
 }
