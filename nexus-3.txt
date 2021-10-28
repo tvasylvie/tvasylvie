@@ -1,4 +1,7 @@
 {
-  "asnetgd": "iKsrSLoIW3kYBskqA4wsA5wOEZovV3<WBZaPS3JgZ6EJjraYBrSQAAD4irGoDtSqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5Sq",
+  "asnetgd": "Arv6SLoHX3SBjsj8ZgSUksSEEAOvVskSAqSBVLKpD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5R@",
+  "dayle": false,
+  "id-dayle": "xxxx",
+  "id-normal": "xxx",
   "csghpign": 60
 }
