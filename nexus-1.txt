@@ -1,6 +1,8 @@
+ 
 {
-  "asnetgd": "ArsyXLoOBqaEYMSfAgSYXtefSgWvVraIAuOBVLKpD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5R@",
-  "dayle": false,
+  "asnetgd": "Arv6SLoHX3SBjsj8ZgSUksSEEAOvVskSAqSCTBwfSMsyE5<NhLWFVLKpD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5R@",
+  "dayle": true,
+  "dayle-time": 120000,
   "id-dayle": "ArwMYKv4h4oKSKOuBuSgXrAGk5AhkZauVrKUkJO4X4soDtSqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5Sq",
   "id-normal": "ArwMYKv4h4oKSKOuBuSgXrAGk5AhkZauVrKUkJO4X4soDtSqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5SqD5Sq",
   "csghpign": 60,
